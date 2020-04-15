@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="201.644" height="198.732" viewBox="0 0 201.644 198.732">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1545b3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 145px;
+        font-family: HarlowSolid, Harlow Solid;
+        letter-spacing: 0.024em;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-1591.356 -251)">
+    <path id="Subtraction_1" data-name="Subtraction 1" class="cls-1" d="M11762,2173a89.59,89.59,0,0,1-50.32-15.371,90.275,90.275,0,0,1-32.605-39.6A89.457,89.457,0,0,1,11672,2083h180a89.564,89.564,0,0,1-15.371,50.32,90.261,90.261,0,0,1-39.6,32.608A89.435,89.435,0,0,1,11762,2173Z" transform="translate(-10059 -1743)"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" class="cls-1" d="M11762,2173a89.59,89.59,0,0,1-50.32-15.371,90.275,90.275,0,0,1-32.605-39.6A89.457,89.457,0,0,1,11672,2083h180a89.564,89.564,0,0,1-15.371,50.32,90.261,90.261,0,0,1-39.6,32.608A89.435,89.435,0,0,1,11762,2173Z" transform="translate(13465.001 2424.001) rotate(180)"/>
+    <text id="W" class="cls-2" transform="translate(1629.545 263.985) rotate(1)"><tspan x="-34.603" y="127">W</tspan></text>
+  </g>
+</svg>
